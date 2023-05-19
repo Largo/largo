@@ -25,7 +25,7 @@ Currently open availability for projects.
 - 💬 Ask me about anything Ruby!
 - 📫 How to reach me: see my email on my website!
 - Talk to me in English, (Swiss-)German, Japanese or French!
--⚡ Fun fact: My approach to development is inspired by Derek Sivers. [Check out this cool podcast](https://remoteruby.com/216)
+- ⚡ Fun fact: My approach to development is inspired by Derek Sivers. [Check out this cool podcast](https://remoteruby.com/216)
 
 Fields of interest: Ruby, PHP, SaaS, VSCode Devcontainers, Docker, Self-hosting, crossplattform (Linux, Windows, MacOS), ecommerce, 
 single developer projects, talking to people and helping them using code,
