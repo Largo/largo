@@ -33,3 +33,11 @@ https://github.com/josepegea/termux_ruby_api
 
 
 
+
+
+
+## to checkout
+
+
+https://github.com/jsahlen/todotxt
+https://ttytoolkit.org/
