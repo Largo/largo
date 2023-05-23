@@ -17,6 +17,7 @@
 # linux
 - fish shell
 - micro editor
+- gh terminal client
 
 # termux
 
