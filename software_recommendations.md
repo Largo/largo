@@ -8,8 +8,15 @@
 - lazygit
 - micro
 - git 
+- todo.txt
+- keepassxc
+- zettlr
+- apostrophe (linux text editor)
+- fish
 
-
+# linux
+- fish shell
+- micro editor
 
 # termux
 
@@ -18,3 +25,10 @@
 https://github.com/josepegea/termux_ruby_api
 
 - supports: lazygit, ruby, micro and more.
+
+
+# vscode
+- devcontainers
+
+
+
