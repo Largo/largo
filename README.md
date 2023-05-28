@@ -22,7 +22,7 @@ Currently open availability for projects.
 - 🔭 I’m currently working on improving Ruby for Windows. Checkout my ocra fork: [ocran](https://github.com/Largo/ocran).
 - 👯 I’m looking to collaborate on Ruby!
 - 🤔 I’m looking for help with Ruby for windows: how to make gtk3 start faster? See [Windows: Use less syscalls for faster require of big gems](https://bugs.ruby-lang.org/issues/19378)
-- 💬 Ask me about anything Ruby!
+- 💬 Ask me about anything Ruby! See my [Ruby Gems](https://rubygems.org/profiles/largo)
 - 📫 How to reach me: see my email on my website!
 - Talk to me in English, (Swiss-)German, Japanese or French!
 - Favorite Editor: Micro and VSCode.
