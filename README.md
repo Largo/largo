@@ -19,6 +19,13 @@ I'm Andi(@largo)! I like to automate things for myself and others, so I became a
 
 Currently open availability for projects.
 
+## Recent Projects
+
+- [Largo/ruby.wasm-quickstart: Your ruby scripts in the browser](https://github.com/Largo/ruby.wasm-quickstart)
+- [Largo/ocran: Turn Ruby Scripts into .exe files](https://github.com/Largo/ocran)
+- [Largo/glimmer-dsl-web-standalone-demo: This is a demo of Glimmer DSL for Web without rails. It allows you to use Ruby instead of JavaScript.](https://github.com/Largo/glimmer-dsl-web-standalone-demo)
+
+
 - 🔭 I’m currently working on improving Ruby for Windows. Checkout my ocra fork: [ocran](https://github.com/Largo/ocran).
 - 👯 I’m looking to collaborate on Ruby!
 - 🤔 I’m looking for help with Ruby for windows: how to make gtk3 start faster? See [Windows: Use less syscalls for faster require of big gems](https://bugs.ruby-lang.org/issues/19378)
