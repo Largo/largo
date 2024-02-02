@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Andi(@largo)! I like to automate things for myself and others, so I became a programmer! Please leave a comment or an issue if you try out any of my projects and cannot get it to work. Feel free to e-mail me。
+I'm Andi(@largo)! I like to automate things for myself and others, so I became a programmer! Please leave a comment or an issue if you try out any of my projects and cannot get it to work.  I love meeting new people, and I reply to every email, so say hello. お気軽にご連絡ください。
 
 ## Recent Projects
 
