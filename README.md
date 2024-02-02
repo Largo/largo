@@ -47,3 +47,4 @@ simple solutions like htmx
 - [Taking Website Screenshots with Ruby](https://idogawa.dev/p/2022/06/taking-website-screenshots-with-ruby.html)
 - [How to git diff epub, docx and sqlite files](https://idogawa.dev/p/2024/01/git-diff-epub.html)
 - [Ruby on the frontend demo app](https://idogawa.dev/p/2024/01/glimmer-dsl-web-demo.html)
+- [Exploring the Dynamic World of Animated SVG Favicons](https://idogawa.dev/p/2024/01/svg-emoji-favicons.html)
