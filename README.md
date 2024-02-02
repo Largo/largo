@@ -39,3 +39,11 @@ Currently open availability for projects.
 Fields of interest: Ruby, PHP, SaaS, VSCode Devcontainers, Docker, Self-hosting, crossplattform (Linux, Windows, MacOS), ecommerce, 
 single developer projects, talking to people and helping them using code,
 simple solutions like htmx
+
+## Blogposts:
+- [How to compile ruby on Windows and debug with GDB](https://idogawa.dev/p/2023/01/compile-ruby-windows.html)
+- [How to programm in Ruby on rails your phone or android tablet](https://idogawa.dev/p/2022/11/how-to-code-in-ruby-on-rails-on-android-phone.html)
+- [Edit your website on your android phone using termux and git!](https://idogawa.dev/p/2022/11/edit-website-on-android-phone.html)
+- [Taking Website Screenshots with Ruby](https://idogawa.dev/p/2022/06/taking-website-screenshots-with-ruby.html)
+- [How to git diff epub, docx and sqlite files](https://idogawa.dev/p/2024/01/git-diff-epub.html)
+- [Ruby on the frontend demo app](https://idogawa.dev/p/2024/01/glimmer-dsl-web-demo.html)
