@@ -19,7 +19,12 @@ I'm Andi(@largo)! I like to automate things for myself and others, so I became a
 
 ## Recent Projects
 
+
+- [Ruby.wasm Template](https://github.com/Largo/rubyWasmTemplate)
+This is a template to start using Ruby.wasm in the browser. Please use this first because my jsg gem might not work.
+
 - [Largo/ruby.wasm-quickstart: Your ruby scripts in the browser](https://github.com/Largo/ruby.wasm-quickstart)
+- [Code for koans.idogawa.com](https://github.com/Largo/BrowserRubyKoans)
 - [Largo/ocran: Turn Ruby Scripts into .exe files](https://github.com/Largo/ocran)
 - [Largo/glimmer-dsl-web-standalone-demo: This is a demo of Glimmer DSL for Web without rails. It allows you to use Ruby instead of JavaScript.](https://github.com/Largo/glimmer-dsl-web-standalone-demo)
 - [Recently I tried out how fast I can get into a new stack: Python FastAPI](https://github.com/Largo/fastapiEventCalendar)
