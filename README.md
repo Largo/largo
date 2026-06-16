@@ -15,19 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Andi(@largo)! I like to automate things for myself and others, so I became a programmer! Please leave a comment or an issue if you try out any of my projects and cannot get it to work.  I love meeting new people, and I reply to every email, so say hello. お気軽にご連絡ください。
+I'm Andi(@largo)! I like to automate things for myself and others, so I became a programmer! Please leave a comment or an issue if you try out any of my projects and cannot get it to work. I love meeting new people, say hello. お気軽にご連絡ください。
 
 ## Recent Projects
 
 
 - [Ruby.wasm Template](https://github.com/Largo/rubyWasmTemplate)
-This is a template to start using Ruby.wasm in the browser. Please use this first because my jsg gem might not work.
+This is a template to start using Ruby.wasm in the browser.
 
 - [Largo/ruby.wasm-quickstart: Your ruby scripts in the browser](https://github.com/Largo/ruby.wasm-quickstart)
 - [Code for koans.idogawa.com](https://github.com/Largo/BrowserRubyKoans)
 - [Largo/ocran: Turn Ruby Scripts into .exe files](https://github.com/Largo/ocran)
 - [Largo/glimmer-dsl-web-standalone-demo: This is a demo of Glimmer DSL for Web without rails. It allows you to use Ruby instead of JavaScript.](https://github.com/Largo/glimmer-dsl-web-standalone-demo)
-- [Recently I tried out how fast I can get into a new stack: Python FastAPI](https://github.com/Largo/fastapiEventCalendar)
 
 - 🔭 I’m currently working on improving Ruby for Windows. Checkout my ocra fork: [ocran](https://github.com/Largo/ocran).
 - 👯 I’m looking to collaborate on Ruby! I will be going to Ruby Kaigi 2024. Ruby now works anywhere: Windows, OSX, Linux, Android and the browser! Let's make it even easier for everyone to use it!
