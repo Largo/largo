@@ -18,19 +18,20 @@ Here are some ideas to get you started:
 I'm Andi(@largo)! I like to automate things for myself and others, so I became a programmer! Please leave a comment or an issue if you try out any of my projects and cannot get it to work. I love meeting new people, say hello. お気軽にご連絡ください。
 
 ## Recent Projects
-
-
+- how to make ruby on windows a bit faster? I made a patch achieving 2.95× faster start times. [Windows: Use less syscalls for faster require of big gems](https://bugs.ruby-lang.org/issues/19378)
+- [Historical Swiss Weather: see high/low temperatures on a map](https://github.com/Largo/swisshistoricalweather)
+- [Largo/ocran: Turn Ruby Scripts into .exe files. Now with Linux and MacOS Support](https://github.com/Largo/ocran)
 - [Ruby.wasm Template](https://github.com/Largo/rubyWasmTemplate)
 This is a template to start using Ruby.wasm in the browser.
 
 - [Largo/ruby.wasm-quickstart: Your ruby scripts in the browser](https://github.com/Largo/ruby.wasm-quickstart)
 - [Code for koans.idogawa.com](https://github.com/Largo/BrowserRubyKoans)
-- [Largo/ocran: Turn Ruby Scripts into .exe files](https://github.com/Largo/ocran)
+
 - [Largo/glimmer-dsl-web-standalone-demo: This is a demo of Glimmer DSL for Web without rails. It allows you to use Ruby instead of JavaScript.](https://github.com/Largo/glimmer-dsl-web-standalone-demo)
 
 - 🔭 I’m currently working on improving Ruby for Windows. Checkout my ocra fork: [ocran](https://github.com/Largo/ocran).
 - 👯 I’m looking to collaborate on Ruby! I will be going to Ruby Kaigi 2024. Ruby now works anywhere: Windows, OSX, Linux, Android and the browser! Let's make it even easier for everyone to use it!
-- 🤔 I’m looking for help with Ruby for windows: how to make gtk3 start faster? See [Windows: Use less syscalls for faster require of big gems](https://bugs.ruby-lang.org/issues/19378)
+- 🤔 I’m looking for help with Ruby for windows: how to make ruby on windows a bit faster? See [Windows: Use less syscalls for faster require of big gems](https://bugs.ruby-lang.org/issues/19378)
 - 💬 Ask me about anything Ruby! See my [Ruby Gems](https://rubygems.org/profiles/largo)
 - 📫 How to reach me: see my email on my website!
 - Talk to me in English, (Swiss-)German, Japanese or French!
