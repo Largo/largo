@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I'm Andi(@largo)! I like to automate things for myself and others, so I became a programmer! Please leave a comment or an issue if you try out any of my projects and cannot get it to work. I love meeting new people, say hello. お気軽にご連絡ください。
 
 ## Recent Projects
+- My friend Yosei Ito made a tool to run mruby on Rasberry pi pico and ESP32s, which runs on the cmd line. It works very well with AI, because of it. I made [inkmodoro](https://github.com/Largo/inkmodoro) as a demo for it.
 - how to make ruby on windows a bit faster? I made a patch achieving 2.95× faster start times. [Windows: Use less syscalls for faster require of big gems](https://bugs.ruby-lang.org/issues/19378)
 - [Historical Swiss Weather: see high/low temperatures on a map](https://github.com/Largo/swisshistoricalweather)
 - [Largo/ocran: Turn Ruby Scripts into .exe files. Now with Linux and MacOS Support](https://github.com/Largo/ocran)
