@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 I'm Andi(@largo)! I like to automate things for myself and others, so I became a programmer! Please leave a comment or an issue if you try out any of my projects and cannot get it to work. I love meeting new people, say hello. お気軽にご連絡ください。
 
 ## Recent Projects
-- I got Ruboto: Ruby on Android to work with JRuby 10 [largo/ruboto](https://github.com/Largo/ruboto)
+- [Largo/ocran: Turn Ruby Scripts into .exe files. Now with Linux and MacOS Support](https://github.com/Largo/ocran). Cosmopolitain LibC Support means that a simple Rails app can be shipped as an executable and will run everywhere.
+- [Largo/cosmoruby: Actually Portable Ruby Executables](https://github.com/Largo/cosmoruby)
+- [Largo/HacketyHack: HacketyHack working in 2026](https://github.com/Largo/hacketyhack)
+- I got Ruboto: Ruby on Android to work with JRuby 10 [largo/ruboto](https://github.com/Largo/ruboto). This means Ruby apps working on Android phones and WearOS.
+- Working on Drivers and PHP internals.
 - My friend Yosei Ito made a tool [prremote](https://github.com/lumbermill/prremote) to run mruby on Rasberry pi pico and ESP32s, which runs on the cmd line. It works very well with AI, because of it. I made [inkmodoro](https://github.com/Largo/inkmodoro) as a demo for it.
-- how to make ruby on windows a bit faster? I made a patch achieving 2.95× faster start times. [Windows: Use less syscalls for faster require of big gems](https://bugs.ruby-lang.org/issues/19378)
+- how to make ruby on windows a bit faster? I made a patch achieving 2.95× faster start times. This got merged into Ruby Core. [Windows: Use less syscalls for faster require of big gems](https://bugs.ruby-lang.org/issues/19378)
 - [Historical Swiss Weather: see high/low temperatures on a map](https://github.com/Largo/swisshistoricalweather)
-- [Largo/ocran: Turn Ruby Scripts into .exe files. Now with Linux and MacOS Support](https://github.com/Largo/ocran)
 - [Ruby.wasm Template](https://github.com/Largo/rubyWasmTemplate)
 This is a template to start using Ruby.wasm in the browser.
 
@@ -32,7 +35,7 @@ This is a template to start using Ruby.wasm in the browser.
 - [Largo/glimmer-dsl-web-standalone-demo: This is a demo of Glimmer DSL for Web without rails. It allows you to use Ruby instead of JavaScript.](https://github.com/Largo/glimmer-dsl-web-standalone-demo)
 
 - 🔭 I’m currently working on improving Ruby for Windows. Checkout my ocra fork: [ocran](https://github.com/Largo/ocran).
-- 👯 I’m looking to collaborate on Ruby! I will be going to Ruby Kaigi 2024. Ruby now works anywhere: Windows, OSX, Linux, Android and the browser! Let's make it even easier for everyone to use it!
+- 👯 I’m looking to collaborate on Ruby! I went to Ruby Kaigi 2024, Ruby World 2024 and Ruby Kaigi 2026. Ruby now works anywhere: Windows, OSX, Linux, Android and the browser! Let's make it even easier for everyone to use it! I'm looking forward to Ruby Kaigi 2027 in Miyazaki, Japan, which I recommended to the organizers.
 - 🤔 I’m looking for help with Ruby for windows: how to make ruby on windows a bit faster? See [Windows: Use less syscalls for faster require of big gems](https://bugs.ruby-lang.org/issues/19378)
 - 💬 Ask me about anything Ruby! See my [Ruby Gems](https://rubygems.org/profiles/largo)
 - 📫 How to reach me: see my email on my website!
@@ -42,7 +45,7 @@ This is a template to start using Ruby.wasm in the browser.
 - ⚡ Fun fact: My approach to development is inspired by Derek Sivers. [Check out this cool podcast](https://remoteruby.com/216)
 
 Fields of interest: Ruby, MRuby / Picoruby, PHP, Python, JavaScript/Typescript, C/C++/C#, SaaS, VSCode Devcontainers, Docker, Self-hosting, crossplattform (Linux, Windows, MacOS), ecommerce, 
-single developer projects, talking to people and helping them using code,
+single developer projects, talking to people and helping them using code, 
 simple solutions like htmx
 
 ## Blogposts:
