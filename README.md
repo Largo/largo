@@ -17,10 +17,24 @@ Here are some ideas to get you started:
 
 I'm Andi(@largo)! I like to automate things for myself and others, so I became a programmer! Please leave a comment or an issue if you try out any of my projects and cannot get it to work. I love meeting new people, say hello. お気軽にご連絡ください。
 
+## New this autumn (2026)
+**Ruby in the browser (ruby.wasm)**
+- [Largo/chunkybacon: Learn Ruby in the browser with Chunky Bacon](https://github.com/Largo/chunkybacon). An interactive notebook course in German and English, running on ruby.wasm.
+- [Largo/jsg](https://github.com/Largo/jsg): the `jsg` command creates, builds and serves ruby.wasm browser projects. [Gem](https://rubygems.org/gems/jsg)
+- [Largo/nokogiri-pure](https://github.com/Largo/nokogiri-pure): Nokogiri 1.19.4 in pure Ruby. libxml2, libxslt and gumbo ported to Ruby, no C extension, so it runs on ruby.wasm. [Gem](https://rubygems.org/gems/nokogiri-pure)
+- [Largo/bigdecimal-pure](https://github.com/Largo/bigdecimal-pure): BigDecimal in pure Ruby. `require 'bigdecimal'` still uses the native gem when it is available. [Gem](https://rubygems.org/gems/bigdecimal-pure)
+
+**Ruby + LLMs**
+- [Largo/ruby_llm-claude_cli](https://github.com/Largo/ruby_llm-claude_cli): use Claude Code and its subscription login as a [RubyLLM](https://rubyllm.com) provider. Streaming, images, PDFs, Office files, structured output and tool calls, no API key needed. [Gem](https://rubygems.org/gems/ruby_llm-claude_cli)
+- [Largo/ruby_llm-providers-infomaniak](https://github.com/Largo/ruby_llm-providers-infomaniak): a RubyLLM provider for Infomaniak AI Tools (Swiss-hosted models). [Gem](https://rubygems.org/gems/ruby_llm-providers-infomaniak)
+
+**Office files**
+- [Largo/ruby_pptx](https://github.com/Largo/ruby_pptx): a Ruby port of python-pptx. Create, read and update PowerPoint files. [Gem](https://rubygems.org/gems/ruby_pptx)
+
 ## Recent Projects
 - [Largo/ocran: Turn Ruby Scripts into .exe files. Now with Linux and MacOS Support](https://github.com/Largo/ocran). Cosmopolitain LibC Support means that a simple Rails app can be shipped as an executable and will run everywhere.
 - [Largo/cosmoruby: Actually Portable Ruby Executables](https://github.com/Largo/cosmoruby)
-- [Largo/HacketyHack: HacketyHack working in 2026](https://github.com/Largo/hacketyhack)
+- [Largo/HacketyHack: HacketyHack working in 2026](https://github.com/Largo/hacketyhack). Includes [clogs](https://rubygems.org/gems/clogs), which runs Shoes programs on plain CRuby with native widgets (libui), no browser engine or JVM needed.
 - I got Ruboto: Ruby on Android to work with JRuby 10 [largo/ruboto](https://github.com/Largo/ruboto). This means Ruby apps working on Android phones and WearOS.
 - Working on Drivers and PHP internals.
 - My friend Yosei Ito made a tool [prremote](https://github.com/lumbermill/prremote) to run mruby on Rasberry pi pico and ESP32s, which runs on the cmd line. It works very well with AI, because of it. I made [inkmodoro](https://github.com/Largo/inkmodoro) as a demo for it.
